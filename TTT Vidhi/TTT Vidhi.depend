@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1537411391 source:c:\users\dell\desktop\ttt vidhi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
+1537412657 source:c:\users\dell\desktop\new folder (4)\ttt vidhi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
